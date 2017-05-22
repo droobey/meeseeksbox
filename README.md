@@ -42,6 +42,6 @@ Put your wavs in the *wavs/chance* folder, *sound.wav* for the normal one and *s
 
 Also I did add something a little extra...
 
-**WUBALUBADUBDUB!**
+**ENJOY! WUBALUBADUBDUB!**
 
-<sub>Rick and Morty wavs in wavs folder  © 2013 Cartoon Network used under fair use</sub>
+<sub><sub><sub>Rick and Morty wavs in wavs folder  © 2013 Cartoon Network used under fair use</sub></sub></sub>
