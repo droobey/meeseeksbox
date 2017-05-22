@@ -3,6 +3,12 @@ Google AIY Voice Kit Project based on a Meeseeks Box
 
 This is a modified version of Googles Raspbian scripts for the AIY Voice Kit Project to make it like a Meeseeks Box by adding sound effects.
 
+To install ensure you have the requests module installed (make sure you've voice reconginzer enviroment first!)
+```
+pip install requests
+```
+
+Then copy repository files into of Googles voice-recognizer-raspi folder
 As well as this there are a few noticeable fuctions in the action.py
 
 * Command configuration by text file
@@ -35,3 +41,7 @@ it -1 from the chance, making it more likely to play it next time the command is
 Put your wavs in the *wavs/chance* folder, *sound.wav* for the normal one and *sound-full.wav* if you are lucky!
 
 Also I did add something a little extra...
+
+**WUBALUBADUBDUB!**
+
+<sub>Rick and Morty wavs in wavs folder  © 2013 Cartoon Network used under fair use</sub>
